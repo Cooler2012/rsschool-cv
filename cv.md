@@ -1,4 +1,4 @@
-#**Hello! My name is Alexander Kuleshov and this is my CV.**
+**Hello! My name is Alexander Kuleshov and this is my CV.**
 
 **My contacts:**
 *Phone: + 375 (29) 171-15-63*
