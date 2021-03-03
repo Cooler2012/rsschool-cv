@@ -1,1 +1,1 @@
-https://Cooler2012.github.io/rsschool-cv/cv
+https://Cooler2012.github.io/rsschool-cv/
