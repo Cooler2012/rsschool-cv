@@ -1,0 +1,42 @@
+.wrap {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 800px;
+    height: auto;
+    margin: auto;
+}
+
+
+header, footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: silver;
+}
+
+img {
+    width: 120px;
+    height: 100px;
+    margin: auto;
+}
+
+.Main_Section-skills, .Main_Section-Education {
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.Section_Skills, 
+.Section_Experience, 
+.Section_Education,
+.Section_English {
+   width: 300px;
+   height: 200px;
+   margin: 20px 20px;
+   border: solid silver;
+   border-radius: 10%;
+}
